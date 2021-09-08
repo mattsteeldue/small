@@ -16,7 +16,7 @@ Examples:
 
 2. How can we be reasonably sure about the correctness of the solution?
 
-    We have to provid a complete set of successful tests, the algorithm is linear. 
+    We have to provide a complete set of successful tests, the algorithm is linear. 
 
 
 3. Discuss the space-time complexity of the proposed solution (both in general and language related)
